@@ -1,2 +1,4 @@
 # cv-project
-የእኔ የሲቪ ፕሮጀክት ሊንክ፡ https://musitizemecha-byte.github.io/cv-project/Asd.html
+የእኔ የሲቪ ፕሮጀክት (CV Project)።
+
+የፕሮጀክቱ ሊንክ (Live Demo): https://musitizemecha-byte.github.io/cv-project/
